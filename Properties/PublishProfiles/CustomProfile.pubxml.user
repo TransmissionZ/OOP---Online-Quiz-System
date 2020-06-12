@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbidHZAa/i0+8sDdGlg1+9QAAAAACAAAAAAAQZgAAAAEAACAAAABVzNhqs1hRePRigQOuHmlbjdiVd8XVkKd9cX/u1TzwmAAAAAAOgAAAAAIAACAAAADycQd9MPMpsSNn+W3Gi14sFKTu81oQiF6pie8pUYM/bCAAAAAoWXsdf6mubZogTfPxId02HNIJY6PyVAj9xDybqmPpeEAAAABmbNHIcLJW8EbzrhAeA3mgUN+OekD8lFSEjbFUwMOcVFUMNduqKrTv9Kr5Uh0JQPnv7PJWwQGejlYW2eZlc1T5</EncryptedPassword>
+    <_PublishTargetUrl>ftp://quizfast.somee.com/www.quizfast.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
